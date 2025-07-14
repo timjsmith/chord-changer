@@ -4,7 +4,7 @@ Web app that will change the displayed chord so that a guitarist can practice th
 
 ## Development
 
-This repository contains a Node server and a React client. The Node server serves the compiled React application.
+This repository contains a Node server and a React client. The React app is built with [Vite](https://vitejs.dev/) and the Node server serves the compiled application.
 
 ### Setup
 
@@ -25,7 +25,7 @@ This repository contains a Node server and a React client. The Node server serve
    npm start
    ```
 
-During development you can run the React dev server using:
+During development you can run the Vite dev server using:
 ```bash
 npm run client
 ```
